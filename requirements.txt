@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+profanity-filter
+pydantic
+gunicorn
+pylint
